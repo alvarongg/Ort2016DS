@@ -1,0 +1,36 @@
+!SESSION 2016-04-27 20:45:21.348 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr5ifx-20090821_41076 (JIT enabled, AOT enabled)
+J9VM - 20090821_041076_lHdSMr
+JIT  - r9_20090518_2017
+GC   - 20090417_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_AR
+Framework arguments:  -product com.ibm.rational.rsastd.product.v75.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsastd.product.v75.ide
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2016-04-27 20:52:07.684
+!MESSAGE Could not acquire INavigatorContentService from part ("Bienvenida").
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 20:58:06.086
+!MESSAGE NLS missing message: MenuManager_CreateAction__ServiceProvider__Stereotype_name in: com.ibm.xtools.modeling.enterprise.services.internal.l10n.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 20:58:08.727
+!MESSAGE NLS missing message: Commands_Show_ReletedElements in: com.ibm.xtools.viz.j2se.ui.internal.l10n.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 21:00:58.904
+!MESSAGE NLS unused message: definitions_to_package_Transform_RootElementToPackagedElement_Usingservicereference_to_interface_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 21:00:58.904
+!MESSAGE NLS unused message: process_to_component_Transform_InterfaceRefToPackagedElement_Usinginterface_to_Interface_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 21:00:58.904
+!MESSAGE NLS unused message: servicereference_to_interface_Transform in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 21:00:58.920
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_Create_Rule in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 21:00:58.920
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_InterfaceRef$NameToName_Rule in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-04-27 21:00:58.920
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_InterfaceRef$OperationToOwnedOperation_Usingopertation_to_operation_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
